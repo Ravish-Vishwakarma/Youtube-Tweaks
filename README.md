@@ -10,4 +10,6 @@
 6. Select this folder.
 7. Enable all the features required by pressing on the extension icon in the top and choosing from the list.
 
+Video on how to install it -> [Youtube Video](https://www.youtube.com/watch?v=OEDl1d3t8vc)
+
 > Save the extracted folder somewhere safe and then import it in chrome, so you don't delete it by accident.

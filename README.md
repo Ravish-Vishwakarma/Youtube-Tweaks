@@ -1,5 +1,4 @@
 ![Thumblain Image](Icons/thumblain.png)
-![Uploading image.png…]()
 
 > Direction for **How to install?** :
 1. Download this repository and Extract it

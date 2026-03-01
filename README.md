@@ -1,4 +1,4 @@
-![Thumblain Image](Icons/thumblain.png)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/035e71cf-38f8-4191-bb9c-a7935970e6a5" />
 
 > Direction for **How to install?** :
 1. Download this repository and Extract it
